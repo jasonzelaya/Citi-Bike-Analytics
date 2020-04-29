@@ -6,3 +6,4 @@
 * Tableau
 * Python
 * Pandas, jupyter
+* NumPy
