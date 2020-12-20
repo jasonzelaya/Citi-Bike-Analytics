@@ -18,9 +18,9 @@ The purpose of this project is to build a set of data reports to provide answers
 ### Technologies
 * Tableau
 * Python
-* Jupyter Notebook
-* Pandas
+* Pandas, jupyter
 * NumPy
+* Datetime
 
 ## Project Description
 The 2019 summer and winter data found in the Citi Bike Trip History Logs was aggregated and used to build a Tableau data story which answers questions about New York bike usage during the summer and winter seasons, times, locations and demographics.
